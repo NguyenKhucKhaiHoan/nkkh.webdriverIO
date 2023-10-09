@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "span#schedule_submit_button"
+}

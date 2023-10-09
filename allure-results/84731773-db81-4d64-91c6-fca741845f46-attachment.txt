@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()='Are you sure you want to delete the following appointment?']"
+}

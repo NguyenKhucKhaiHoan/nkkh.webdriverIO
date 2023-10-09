@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='icon-appMenu-schedule appmenu-item-icon']"
+}

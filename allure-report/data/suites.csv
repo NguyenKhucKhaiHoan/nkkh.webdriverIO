@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"unknown","Mon Oct 09 16:26:22 ICT 2023","Mon Oct 09 16:26:27 ICT 2023","4211","","Test create","","","","""after all"" hook for Test create",""
-"unknown","Mon Oct 09 16:26:22 ICT 2023","Mon Oct 09 16:26:27 ICT 2023","4214","","Test create","","","","delete appointment",""
-"passed","Mon Oct 09 16:26:07 ICT 2023","Mon Oct 09 16:26:22 ICT 2023","15508","","Test create","","","","create new regular appointment",""
-"unknown","Mon Oct 09 16:26:06 ICT 2023","Mon Oct 09 16:26:27 ICT 2023","20941","","Test create","","","","""before all"" hook for Test create",""

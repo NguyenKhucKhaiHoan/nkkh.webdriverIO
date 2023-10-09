@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//a[starts-with(@href,'/g/schedule/add.csp')]"
+}

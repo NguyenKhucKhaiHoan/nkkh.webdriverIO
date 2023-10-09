@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "div.global_navi-viewChange-grn"
-}

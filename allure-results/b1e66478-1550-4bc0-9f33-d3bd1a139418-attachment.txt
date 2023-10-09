@@ -1,3 +1,0 @@
-{
-  "url": "https://intern-team1-2.cybozu-dev.com/g/login"
-}

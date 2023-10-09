@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "#schedule_button_save a"
-}

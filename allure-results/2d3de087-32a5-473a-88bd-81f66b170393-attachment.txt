@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//table[@class=\"global_navi_title\"]"
-}

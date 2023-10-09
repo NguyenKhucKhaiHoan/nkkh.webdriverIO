@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//table[@class=\"global_navi_title\"]\"}\n  (Session info: chrome=117.0.5938.134)",
-  "stacktrace": "\tGetHandleVerifier [0x00007FF719217D12+55474]\n\t(No symbol) [0x00007FF7191877C2]\n\t(No symbol) [0x00007FF71903E0EB]\n\t(No symbol) [0x00007FF71907EBAC]\n\t(No symbol) [0x00007FF71907ED2C]\n\t(No symbol) [0x00007FF7190B9F77]\n\t(No symbol) [0x00007FF71909F19F]\n\t(No symbol) [0x00007FF7190B7EF2]\n\t(No symbol) [0x00007FF71909EF33]\n\t(No symbol) [0x00007FF719073D41]\n\t(No symbol) [0x00007FF719074F84]\n\tGetHandleVerifier [0x00007FF71957B762+3609346]\n\tGetHandleVerifier [0x00007FF7195D1A80+3962400]\n\tGetHandleVerifier [0x00007FF7195C9F0F+3930799]\n\tGetHandleVerifier [0x00007FF7192B3CA6+694342]\n\t(No symbol) [0x00007FF719192218]\n\t(No symbol) [0x00007FF71918E484]\n\t(No symbol) [0x00007FF71918E5B2]\n\t(No symbol) [0x00007FF71917EE13]\n\tBaseThreadInitThunk [0x00007FF9A045257D+29]\n\tRtlUserThreadStart [0x00007FF9A270AA68+40]\n"
-}
